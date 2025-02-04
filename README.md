@@ -78,6 +78,9 @@ mitochondria (nuc.tif) used for the tracking.
 
 ## Screenshots
 
+![interface](https://github.com/user-attachments/assets/3a20343e-9f2d-413a-8b61-725a4c93ef99)
+
+![borders](https://github.com/user-attachments/assets/da0642a5-012f-457a-a08a-f7350c48ae79)
 
 
 ## Support
