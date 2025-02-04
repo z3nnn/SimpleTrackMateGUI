@@ -39,8 +39,8 @@ Simple TrackMate GUI has the following characteristics:
         - Target Channel: 1
         - Median filtering: True
     - **Spot filter:**
-        - **Remove percentage of border in X from both sides.** (must be below %50)
-        - **Remove percentage of border in Y from both sides.** (must be below %50)
+        - **Remove percentage of border in X from both sides.** (must be below 50%)
+        - **Remove percentage of border in Y from both sides.** (must be below 50%)
 
 - Tracker settings:
     - Nearest Neighbor Tracker Factory:
@@ -77,6 +77,8 @@ mitochondria (nuc.tif) used for the tracking.
 ```
 
 ## Screenshots
+
+
 
 ## Support
 
