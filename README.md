@@ -1,5 +1,5 @@
 
-# Simple TrackMate GUI v0.3
+# Simple TrackMate GUI v0.0.1
 
 This plugin was created to simplify the process of running TrackMate to a batch of files. It has a simple interface with only a few of the parameters that the intended user has to use.
 
