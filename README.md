@@ -15,7 +15,7 @@ There are a few prerequisites for installing this plugin:
 
 3. If Fiji prompts the update windows say yes, if not go to "Help" > "Update" and update Fiji, then restart it. 
 
-3.5 *(Only if you need MTrackJ)* After updating, open the update window again and on "Manage update sites" search for "ImageScience" and install it or upgrade it to the last version, to get MTrackJ.
+	*(Only if you need MTrackJ)* After updating, open the update window again and on "Manage update sites" search for "ImageScience" and install it or upgrade it to the last version, to get MTrackJ.
 
 4. Fiji should come with TrackMate by default, but if you dont have it, install TrackMate as this plugin uses TrackMate v7.14.0 (older versions might not work).
 
