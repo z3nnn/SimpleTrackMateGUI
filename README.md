@@ -13,11 +13,15 @@ There are a few prerequisites for installing this plugin:
 
 2. Once you have downloaded FIJI choose a place to locate the folder of installation, if you have Windows you may have issues placing it in some folders that have administration restrictions like "C:\Program Files\", so its advised to place it in other folder of your user that does have them.
 
-3. Install TrackMate, this plugin uses TrackMate v7.13.2, older versions won't work.
+3. If Fiji prompts the update windows say yes, if not go to "Help" > "Update" and update Fiji, then restart it. 
 
-4. Place the "SimpleTrackMateGUI-0.0.1.jar" (it may be another version) file in your plugins folder  "./Fiji.app/plugins"
+3.5 *(Only if you need MTrackJ)* After updating, open the update window again and on "Manage update sites" search for "ImageScience" and install it or upgrade it to the last version, to get MTrackJ.
 
-5. Restart FIJI, and run SimpleTrackMateGUI in the "Plugins" list.
+4. Fiji should come with TrackMate by default, but if you dont have it, install TrackMate as this plugin uses TrackMate v7.14.0 (older versions might not work).
+
+5. Place the "SimpleTrackMateGUI-0.0.1.jar" (it may be another version) file in your plugins folder  "./Fiji.app/plugins"
+
+5. Restart FIJI, and run SimpleTrackMateGUI at the bottom of the "Plugins" list.
 
 ## Features
 
